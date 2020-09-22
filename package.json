@@ -2,7 +2,7 @@
   "name": "router-examples",
   "version": "0.1.0",
   "private": true,
-  "homepage-github": "https://evinracher.github.io/react-router-examples/",
+  "homepage": "https://evinracher.github.io/react-router-examples/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",

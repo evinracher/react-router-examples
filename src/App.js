@@ -1,5 +1,5 @@
 import React from 'react';
-import Example from './components/ej12';
+import Example from './components/ej13';
 import './App.css';
 
 function App() {

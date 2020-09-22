@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,IACE,YAAa,CACb,4BAA6B,CAC7B,oBACF,CAEA,WACE,aAAc,CACd,oBAAqB,CACrB,wBACF","file":"main.14a6c506.chunk.css","sourcesContent":["nav {\n  display: flex;\n  justify-content: space-around;\n  border: 1px solid red;\n}\n\n.navActive {\n  color: #FF008d;\n  text-decoration: none;\n  background-color: whitesmoke;\n}"]}
